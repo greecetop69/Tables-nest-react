@@ -1,0 +1,11 @@
+{
+  "schema": {
+    "table_name": "test",
+    "ownerId": "",
+    "columns": [
+      { "name": "column1", "type": "string" },
+      { "name": "column2", "type": "string" }
+    ]
+  },
+  "data": []
+}
